@@ -72,3 +72,188 @@ nav ul li{
 .banner-pic{
     width: 400px;
 }
+
+/* card-1-style */
+.card-1{
+  padding: 0 160px; 
+  padding-top: 30px;
+  border-radius: 20px;
+}
+.card-3{
+    display: flex;
+    gap: 32;
+    padding: 15px;
+}
+.card-1-h4{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-left: 10px;  
+}
+
+.card-1-content{
+    width: 300px;
+    padding: 24px;
+    box-shadow: 0px 4px 4px 0px rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+}
+
+ .card-1-img{
+   width: 60px;
+   height: 60px;
+}
+.card-1-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.card-1-dicription{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+} 
+
+/* The Vision of Future */
+
+.flax-center{
+    padding: 0 165px;
+}
+.the-vision{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.bangladesh{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-bottom: 32px;
+}
+
+/* button-2-style */
+.card-2-title{
+display: flex;
+gap: 24px;
+padding-bottom: 32px;
+}
+.cart-2-content{
+    padding: 20px;
+}
+
+
+.card-2-mining{
+width: 49.66px;
+height: 53.09px;
+left: 13.34px;
+top: 1px;
+}
+.card-2-larn{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.card-2-p{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.button-peraimari{
+    border-radius: 8px;
+    width: 100px;
+    height: 41px;
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    border: none;
+}
+.card-2-finis{
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+}
+.card-2-then{
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+}
+.card-mor{
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+}
+.button-head{
+    background: rgb(84, 144, 245);
+}
+.button-sub{
+    background: rgb(9, 161, 92);
+}
+.button-last{
+    background: rgb(255, 194, 57);
+}
+
+/* background-img-style */
+.bac-img{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    background-image:  url('../assets/quote-bg.png');
+    background-repeat: no-repeat;
+}
+.bac-img-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.bac-img-content{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.bac-img-sub-content{
+    color: rgba(14, 14, 14, 0.6);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;  
+}
+
+
