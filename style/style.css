@@ -68,6 +68,7 @@ nav ul li{
     line-height: 22px;
     letter-spacing: 0%;
     text-align: left;
+    border: none;
 }
 .banner-pic{
     width: 400px;
