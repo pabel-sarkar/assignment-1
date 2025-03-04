@@ -438,3 +438,90 @@ border-radius: 8px;
 background: rgb(0, 106, 80);
 padding: 17px 34px 17px 34px;
 }
+
+/* Subscribe */
+.Subscribe-1{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.Subscribe-2{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+/*  */
+.hand{
+    padding: 0 160px;
+    padding-top: 32px;
+}
+.last-section{
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    width: 1080px;
+    height: 395px;
+
+}
+.email-fil{
+display: flex;
+justify-content: center;
+}
+.hed-input{
+width: 600px;
+height: 20px;
+gap: 24;
+padding: 18px 40px 18px 40px;
+color: rgba(14, 14, 14, 0.3);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: left;
+}
+.button-pb{
+    width: 155px;
+    height: 60px;
+    border-radius: 0px 8px 8px 0px;
+    background: rgb(0, 106, 80);
+    border: none;
+}
+.last-pp{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+/* footer-section */
+.footer-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-section h4{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: left;
+}
+.footer-section-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
