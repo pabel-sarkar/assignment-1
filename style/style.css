@@ -257,3 +257,184 @@ top: 1px;
 }
 
 
+/* Recent-News */
+.Recent-News{
+    padding: 0 160px;
+}
+.Recent-h4{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.Recent-p{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+/*  */
+.Launches-center{
+    padding: 0 160px 0 160px;
+    border-radius: 24px;
+    background: rgb(255, 255, 255);
+}
+.Launches{
+    display: flex;
+    gap: 32px;
+}
+.Launches-img{
+    border-radius: 24px;
+    width: 408px;
+    height: 306px;
+    margin: 48px 28px;
+}
+
+.Read-More-h{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.Read-More-date{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.Read-More-date-2{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    align-items: center;
+}
+.Read-More-p{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.Read-More-button{
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    width: 108px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    border: none;
+}
+/* about styls */
+.about{
+   max-width: 1084px;
+   margin: 0 auto;
+}
+.section-title{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.section-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+/* abott-items */
+.abott-items{
+    display: flex;
+    justify-content: space-between;
+}
+.about-item{
+     color: rgb(255, 255, 255);
+    border-radius: 16px;
+    margin: 0px 24px;
+    background: rgb(255, 255, 255);
+}
+.item-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.bg-color{
+    background-color:rgb(198, 228, 214);
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: left;
+    border-radius: 10px;
+}
+input type{
+    width: 1000px;
+}
+.input-taxt{
+    border-radius: 8px 0px 0px 8px;
+    background: rgb(255, 255, 255);
+}
+.input-land{
+    display: flex;
+    align-items: center;
+    gap: 24;
+    margin: 32px 0px;
+    padding: 20px 40px 20px 40px;
+    width: 1032px;
+    height: 20px;
+    color: rgba(14, 14, 14, 0.3);
+    border-radius: 8px 0px 0px 8px;
+    background: rgb(255, 255, 255);
+    border: none;
+     font-family: Fira Sans;
+     font-size: 16px;
+     font-weight: 400;
+     line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.button-jan{
+    display: flex;
+    justify-content: center;
+}
+.button-linex{
+border-radius: 8px;
+background: rgb(0, 106, 80);
+padding: 17px 34px 17px 34px;
+}
